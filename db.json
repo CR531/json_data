@@ -1,0 +1,19 @@
+{
+  "fakeData": [
+    {
+      "id": 0,
+      "status": "disqualify",
+      "message": "Sorry! Please reach out to admin"
+    },
+    {
+      "id": 1,
+      "status": "success",
+      "message": "Success! You can proceed to create user account"
+    },
+    {
+      "id": 2,
+      "status": "badrequest",
+      "message": "Error! Bad Request"
+    }
+  ]
+}
